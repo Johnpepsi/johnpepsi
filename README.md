@@ -9,4 +9,7 @@
 🌱 I’m currently in my second year of Computer Science. 
 
 🛠️ Tools and Technologies
-![image](https://github.com/Johnpepsi/johnpepsi/assets/112512965/d91b6bfe-2bf0-4362-85c8-fd5bb65b0fda)
+Python C C++ Java JavaScript Node.js React.js Next.js Express.js MongoDB MySQL PostgreSQL HTML5 CSS Azure Docker Git Elastic Postman Ansible Linux OpenShift
+
+🔗 Connect with me
+Gmail Github LinkedIn Twitter YouTube
