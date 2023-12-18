@@ -10,7 +10,7 @@
     <a href="https://github.com/Johnpepsi" style="margin-right: 10px;">
 <div align="center">
     <a href="https://github.com/Johnpepsi">
-        <img src="https://github.com/Johnpepsi/api?username=John&theme=radical" alt="John's">
+        <img src="https://github-readme-stats.vercel.app/api?username=John&theme=radical" alt="John's">
     </a>
     <a href="https://github.com/Johnpepsi">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John&theme=radical&layout=compact" alt="Top Languages">
