@@ -11,9 +11,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: space-between; height: 100vh;">
     <a href="https://github.com/Johnpepsi" style="margin-right: 10px;">
 <div align="center">
-    <a href="https://github.com/Johnpepsi"">
-        <img src="https://github-readme-stats.vercel.app/api?username=JohnK1511&theme=radical" alt="Aryan's GitHub Stats">
-    </a>
     <a href="https://github.com/Johnpepsi">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John&theme=radical&layout=compact" alt="Top Languages">
     </a>
