@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Palaganas</h1>
 <h3 align="center">I am a Computer Science enthusiast, Pokémon is my favorite game</h3>
-<img align="right alt="Coding" width="400" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojohnpepsi&label=Profile%20views&color=0e75b6&style=flat" alt="ojohnpepsi" /> </p>
