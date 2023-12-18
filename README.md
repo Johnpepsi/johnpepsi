@@ -7,10 +7,10 @@
 🔎 Addicted going to the gym in every day of my life, + protein. 
 
 <div align="center" style="display: flex; align-items: center; justify-content: space-between; height: 100vh;">
-    <a href="https://github.com/AryanK1511" style="margin-right: 10px;">
+    <a href="https://github.com/Johnpepsi" style="margin-right: 10px;">
 <div align="center">
     <a href="https://github.com/Johnpepsi">
-        <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical" alt="John's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=John&theme=radical" alt="John's GitHub Stats">
     </a>
     <a href="https://github.com/Johnpepsi">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John&theme=radical&layout=compact" alt="Top Languages">
