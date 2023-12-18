@@ -1,6 +1,11 @@
-@@ -1,18 +1,15 @@
-# Hey! 👋, I am John Palaganas
-> Passionate SRE Developer Intern @ RBC | 3<sup>rd</sup> year student @ Seneca College, Toronto | Learning DSA, open source, and DevOps
+👋 Hi, I’m @JohnPalaganas 
+
+👀 I’m interested in programming, specialized in Java. 
+
+🥦 I am into start-up businesses and investments. 
+
+🔎 Addicted going to the gym in every day of my life, + protein. 
+
 <div align="center" style="display: flex; align-items: center; justify-content: space-between; height: 100vh;">
     <a href="https://github.com/AryanK1511" style="margin-right: 10px;">
 <div align="center">
@@ -18,3 +23,5 @@
 ## :hammer_and_wrench: Tools and Technologies
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  ![image](https://github.com/Johnpepsi/johnpepsi/assets/112512965/f351c81f-d69a-429f-8014-d110cd1f6b82)
+
