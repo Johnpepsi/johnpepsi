@@ -8,8 +8,17 @@
 
 🌱 I’m currently in my second year of Computer Science. 
 
-🛠️ Tools and Technologies
-Python C C++ Java JavaScript Node.js React.js Next.js Express.js MongoDB MySQL PostgreSQL HTML5 CSS Azure Docker Git Elastic Postman Ansible Linux OpenShift
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; height: 100vh;">
+    <a href="https://github.com/AryanK1511" style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical" alt="Aryan's GitHub Stats">
+    </a>
+    <a href="https://github.com/AryanK1511">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanK1511&theme=radical&layout=compact" alt="Top Languages">
+    </a>
+</div>
 
-🔗 Connect with me
-Gmail Github LinkedIn Twitter YouTube
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanK1511&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## :hammer_and_wrench: Tools and Technologies
+<p>
