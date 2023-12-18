@@ -19,5 +19,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John&theme=radical&layout=compact" alt="Top Languages">
     </a>
 </div>
-
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
