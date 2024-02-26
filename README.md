@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Working on my capstone project Expense tracker<br><br>- 🌱 I’m currently learning Swift, Objective C, and also C#<br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about React, Vue, JavaScript<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All of my projects are available at my website</p>
+<p align="left">- 🔭 Working on my capstone project Expense tracker<br><br>- 🌱 I’m currently learning Swift, Objective C, and also C#<br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about React, Vue, JavaScript<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All of my projects are available on my website</p>
 
 ###
 
