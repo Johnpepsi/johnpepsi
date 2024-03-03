@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Working on my capstone project <br><br>- 🌱 I’m currently learning Swift, and C#<br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about computer, freezer, microwave<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All of my projects are available on my website</p>
+<p align="left">- 🔭 Working on my capstone project <br><br>- 🌱 I’m currently learning Swift, and C#<br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about computer, freezer, microwave<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All my projects are available on my website</p>
 
 ###
 
@@ -79,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-### Working Towards iOs Development/Full-Stack Engineer 
+### Working craft to be an iOs Development/Full-Stack Engineer 
 
 <img src="https://raw.githubusercontent.com/johnpepsi/johnpepsi/output/snake.svg" alt="Snake animation" />
 
