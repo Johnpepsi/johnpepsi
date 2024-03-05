@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Working on my capstone project <br><br>- 🌱 I’m currently learning Swift, and C#<br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about computer, freezer, microwave<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All my projects are available on my website</p>
+<p align="left">- 🔭 Capstone Project incoming.. <br><br>- 🌱 I’m currently learning Swift, and C#<br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about computer, freezer, microwave<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All my projects are available on my website</p>
 
 ###
 
