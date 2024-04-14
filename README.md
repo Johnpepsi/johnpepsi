@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Enthusiast Techno Guy <br><br>- 🌱 I’m currently learning Networking - Ethical Hacking - Python <br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about computer, freezer, microwave<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All my projects are available on my website</p>
+<p align="left">- 🔭 Enthusiast IT Guy <br><br>- 🌱 I’m currently learning Networking - Ethical Hacking - Python <br><br>- 📝 I regularly write articles on journey-development and progress<br><br>- 💬 Ask me about computer, freezer, microwave<br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 All my projects are available on my website</p>
 
 ###
 
