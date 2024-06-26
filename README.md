@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Enthusiast IT Guy <br><br>- 🌱 I’m currently learning Basic Networking - Ethical Hacking - Python <br><br>- 📝 I regularly write articles on journey-development and self-progress<br><br>- 💬 Ask me about Computer, Raspberry PI, VMware <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
+<p align="left">- 🔭 Enthusiast IT Guy <br><br>- 🌱 I’m currently learning Basic Networking - Ethical Hacking - Python <br><br>- 📝 I write articles on journey-development and self-progress<br><br>- 💬 Ask me about Computer, Raspberry PI, VMware <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
 
 ###
 
