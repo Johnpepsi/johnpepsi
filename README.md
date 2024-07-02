@@ -1,8 +1,8 @@
-<img align="right" height="250" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
+ <img align="right" height="250" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
 
 ###
 
-<p align="left">- 🔭 Enthusiast IT Guy <br><br>- 🌱 I’m currently learning basic Networking - Ethical Hacking - Servers <br><br>- 📝 I write articles on journey-development and self-progress<br><br>- 💬 Let's talk about Computer, Raspberry PI, VMware <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
+<p align="left">- 🔭 Enthusiast IT Guy <br><br>- 🌱 I’m currently learning basic Networking - Ethical Hacking - Servers <br><br>- 📝 I write articles on my journey-development and self-progress<br><br>- 💬 Let's talk about Computer, Raspberry PI, VMware <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
 
 ###
 
