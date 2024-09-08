@@ -75,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-### iOs Developer/Full-Stack Web Application 
+### IT Administrator/Full-Stack Web Application 
 
 <img src="https://raw.githubusercontent.com/johnpepsi/johnpepsi/output/snake.svg" alt="Snake animation" />
 
