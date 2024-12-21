@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Enthusiast ss IT Software Guy <br><br>- 🌱 I’m currently learning basic Networking - Ethical Hacking - Server - WebApp <br><br>- 📝 I write articles on my journey-development and self-progress<br><br>- 💬 Let's talk about Software, Network, VMware, Servers <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
+<p align="left">- 🔭 Enthusiast IT Software Guy <br><br>- 🌱 I’m currently learning basic Networking - Ethical Hacking - Server - WebApp <br><br>- 📝 I write articles on my journey-development and self-progress<br><br>- 💬 Let's talk about Software, Network, VMware, Servers <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
 
 ###
 
