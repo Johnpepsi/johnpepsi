@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 IT System Admin / WebDev <br><br>- 🌱 I’m currently learning Networking - DevOps - Security <br><br>- 📝 I write articles on my journey-development and self-progress<br><br>- 💬 Let's talk about Software, Network, Proxmox, Homelabs <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
+<p align="left">- 🔭 IT System Admin Guy <br><br>- 🌱 I’m currently learning Networking - DevOps - Security <br><br>- 📝 I write articles on my journey-development and self-progress<br><br>- 💬 Let's talk about Software, Network, Proxmox, Homelabs <br><br>- 📫 How to reach me palaganasjohnashley@gmail.com <br><br>- 👨‍💻 Some of my projects are available on my website </p>
 
 ###
 
