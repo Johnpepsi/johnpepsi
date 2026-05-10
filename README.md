@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/johnpepsi/count.svg?"  />
+<img align="left" src="https://komarev.com/ghpvc/?username=johnpepsi&style=flat-square&color=blue" alt="Profile views" />
 
 ###
 
