@@ -22,7 +22,7 @@
 | 🔭 | Tech Enthusiast Guy |
 | 🌱 | Currently learning **Networking · DevOps · Security** |
 | 📝 | Writing articles on my journey & self-progress |
-| 💬 | Let's talk **Software, Network, Proxmox, Homelabs** |
+| 💬 | Let's talk about **Systems, Virtualization, Homelabs** |
 | 📫 | palaganasjohnashley@gmail.com |
 | 👨‍💻 | Projects available on my [website](https://johnpepsi.github.io/personal-reactwebapp/) |
 
